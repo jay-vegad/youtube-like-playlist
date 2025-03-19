@@ -2,6 +2,7 @@
 
 A sleek, responsive web application that displays YouTube videos in a grid layout with real-time search functionality. This project uses the freeapi.app YouTube videos API to fetch and display video data with a modern, dark-themed interface.
 
+## Deployed Link:- https://mini-youtube-123.netlify.app/
 
 - Main Ui
 ![Project Screenshot](./ss1.png)
